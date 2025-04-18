@@ -65,4 +65,5 @@ def startUp():
     else :
             price = 0
             print("Invaild answer! please check what you've typed!")
-            return 0 
+            return 0
+startup()
